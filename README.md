@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ritik Poonia
+- 👀 I’m interested in doing some open source contribution and learn something new eevryday from them.
+- 🌱 I’m currently learning data structures and algorithms.
